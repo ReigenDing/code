@@ -2,3 +2,4 @@ aaaaaaaaaaaaaaaaaaaaa
 ÄãºÃ°¡
 bye bye
 hello didi
+print("hello world")
